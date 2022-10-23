@@ -12,9 +12,6 @@
        EXECUTE.
            ADD A B TO C D 
            ADD A B TO C GIVING D 
-
-           DISPLAY D 
-           
            ADD A B TO D GIVING E F
            DISPLAY "A: " A
            DISPLAY "B: " B
